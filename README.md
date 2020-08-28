@@ -18,21 +18,22 @@ Operazioni implementate nel progetto:
 
 
 Utilizzo della Commad Line Interface - CLI:
+
 $ turing --help
 usage: turing COMMAND [ARGS...]
 
 commands:
-- register <username > <password>  
-- login <username > <password>
+- register username password 
+- login username password
 - logout
   
-- create <doc> <numsezioni> 
-- share <doc> <username>
-- show <doc> <sec>
-- show <doc>
+- create doc numsezioni
+- share doc username
+- show doc sec
+- show doc
 - list (mostra la lista dei documenti)
   
-- edit <doc>
-- end-edit <doc> <sec> 
-- send <msg> (invia un msg sulla chat)
+- edit doc
+- end-edit doc sec 
+- send msg (invia un msg sulla chat)
 - receive (visualizza i msg ricevuti sulla chat)
