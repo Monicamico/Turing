@@ -17,10 +17,13 @@ Operazioni implementate nel progetto:
 
 
 
+
 Utilizzo della Commad Line Interface - CLI:
+
 
 $ turing --help
 usage: turing COMMAND [ARGS...]
+
 
 commands:
 - register username password 
